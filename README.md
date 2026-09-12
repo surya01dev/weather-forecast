@@ -1,4 +1,4 @@
-# Shahjahanpur Weather
+# Weather Forecast
 
 A polished, responsive weather experience for **Shahjahanpur, Uttar Pradesh**, built as a single dependency-free HTML file.
 
@@ -6,7 +6,7 @@ It combines a Google Weather-inspired glanceable layout with live forecasts from
 
 ## Live forecast
 
-**[Open Shahjahanpur Weather](https://surya01dev.github.io/shahjahanpur-weather/)**
+**[Open Weather Forecast](https://surya01dev.github.io/weather-forecast/)**
 
 The live site opens directly in your browser and defaults to Shahjahanpur, Uttar Pradesh. GitHub Pages may take a minute or two to publish after the first setup.
 
