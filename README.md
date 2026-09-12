@@ -4,6 +4,16 @@ A polished, responsive weather experience for **Shahjahanpur, Uttar Pradesh**, b
 
 It combines a Google Weather-inspired glanceable layout with live forecasts from the [Open-Meteo API](https://open-meteo.com/), including interactive temperature, precipitation, and wind charts.
 
+## Live forecast
+
+**[Open Shahjahanpur Weather](https://surya01dev.github.io/shahjahanpur-weather/)**
+
+The live site opens directly in your browser and defaults to Shahjahanpur, Uttar Pradesh. GitHub Pages may take a minute or two to publish after the first setup.
+
+## Preview
+
+![Shahjahanpur Weather preview](assets/weather-preview.png)
+
 ## Features
 
 - Live city search with Open-Meteo geocoding
@@ -32,7 +42,7 @@ Then open [http://localhost:8000](http://localhost:8000).
 
 ## Deploy
 
-This project can be hosted on GitHub Pages, Netlify, Vercel, or any static hosting provider. Upload the repository contents and use `index.html` as the entry point.
+This project is published with GitHub Pages at the live link above. It can also be hosted on Netlify, Vercel, or any static hosting provider using `index.html` as the entry point.
 
 ## Data and fallback behavior
 
@@ -43,6 +53,8 @@ Weather data is provided by Open-Meteo and does not require an API key. If geoco
 ```text
 .
 |-- index.html   # Complete application: markup, styles, icons, and JavaScript
+|-- assets/
+|   `-- weather-preview.png
 |-- LICENSE      # MIT license
 `-- README.md    # Project documentation
 ```
