@@ -1,4 +1,4 @@
-# Weather Forecast
+﻿# Weather Forecast
 
 A polished, responsive weather experience for **Shahjahanpur, Uttar Pradesh**, built as a single dependency-free HTML file.
 
@@ -12,7 +12,7 @@ The live site opens directly in your browser and defaults to Shahjahanpur, Uttar
 
 ## Preview
 
-![Shahjahanpur Weather preview](assets/weather-preview.png)
+![Shahjahanpur Weather preview](assets/weather-forecast-latest.png)
 
 ## Features
 
@@ -66,3 +66,4 @@ Released under the [MIT License](LICENSE).
 ---
 
 Crafted with care by **Surya Dev Singh**.
+
