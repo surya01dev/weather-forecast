@@ -1,0 +1,12 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local development artifacts
+*.log
+node_modules/
